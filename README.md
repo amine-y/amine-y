@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a self-taught and independent Web Developer an
 
 ## 🌱 About Me
 
-- 💼 **Current Role**: Technical Lead Full Stack Developer at Axelites since 2016.
+- 💼 **Current Role**: Technical Lead Full Stack Developer at Axelites since 2018.
 - 💡 I thrive in building robust, scalable web applications using modern frameworks and technologies.
 - 🌍 Fluent in both French and English, I’m eager to collaborate on international projects.
 - ⚡ Fun fact: I'm passionate about creating efficient and scalable software solutions for real-world problems.
